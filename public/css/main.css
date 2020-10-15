@@ -9,6 +9,7 @@
 body {
   height: 100vh;
   color: white;
+  background: #ebf2f5;
 }
 
 :root {
@@ -22,7 +23,5 @@ textarea {
   font: 400 1.8rem/1 "Nunito", sans-serif;
 }
 
-body {
-  font-size: 1em;
-}
+
 

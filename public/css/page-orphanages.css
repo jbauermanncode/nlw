@@ -22,7 +22,7 @@ aside h2{
 
 aside p{
     margin-top: 2.4rem;
-    font: 400 1.6rem/1,5 'Nunito', sans-serif;
+    font: 400 1.6rem/1.5 'Nunito', sans-serif;
 }
 
 aside footer p{
@@ -63,16 +63,13 @@ a.create-orphanage:hover{
 
 .leaflet-popup-content-wrapper{
     background: rgba(255, 255, 255, 0.8);
-    rgba(23, 142,166, 0.16);
-    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 17.2(23, 142,166, 0.16);
+    
     border-radius: 20px;
 }
 
 .leaflet-popup-content{
     color: #0089A5;
-    
-    font-size: 2rem;
-    font-weight: 600;
     margin: .8rem 1.2rem;
 
     display: flex;
