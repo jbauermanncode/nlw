@@ -37,7 +37,7 @@ const icon = L.icon({
         
 
         // remover todas classes .active
-        const button = document.querySelectorAll(".images  button")
+        const buttons = document.querySelectorAll(".images  button")
         buttons.forEach(removeActiveClass)
 
         function removeActiveClass(button) {
